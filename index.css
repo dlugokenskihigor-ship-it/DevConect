@@ -5,7 +5,7 @@
 }
 
 .cabeca{
-    background-color: #82a9cf;
+    background-color: #227ad2;
     left: 80px 20px 20px 80px;
     max-width: 1100px;
     display: flex;
@@ -23,7 +23,16 @@
 .navBar{
     display: flex;
     gap:24px;
+    color: white;    
+}
+
+
+.principal{
+    background-color: #23baf5;
+}
+
+.principal p1 {
     color: white;
-    
-    
+    background-color: #23baf5;
+    font-family:serif; 
 }
